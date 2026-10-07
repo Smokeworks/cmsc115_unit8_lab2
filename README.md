@@ -56,6 +56,11 @@ teration 3: final version passing all tests
 
 ## Final Reflection
 
-- How did AI responses change across prompts?
-- How did testing affect your changes?
-- What did version control help you understand?
+How did AI responses change across prompts?
+- The AI responses became more accurate as I provided more context and specific instructions.
+
+How did testing affect your changes?
+- Testing showed what worked, what failed, and what needed to be fixed in the next iteration.
+
+What did version control help you understand?
+- Version control helped me track each change and see how the program improved through each iteration.
