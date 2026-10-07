@@ -4,21 +4,21 @@
 Matthew Gordon
 
 ##  GitHub Repository Link:
-(Insert your repository URL here)
+https://github.com/Smokeworks/cmsc115_unit8_lab2
 
 ## Iteration 1
 
 What the AI code does:
--
+- The AI created the findResult method, but it only returns 0.
 
 Tests passed/failed:
--
+- 1 test and "Result: 0" + "Process finished with exit code 0"
 
 What surprised you:
--
+- Nothing, the first prompt was too vague for the AI to know what findResult was supposed to do.
 
 Commit message:
--
+Iteration 1: AI-generated implementation
 
 ---
 
