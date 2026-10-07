@@ -41,16 +41,16 @@ Commit message:
 ## Iteration 3
 
 Final behavior:
--
+The method returns the largest integer in the array and handles empty arrays
 
 What was fixed:
--
+- Empty arrays now return Integer.MIN_VALUE instead of causing an error.
 
 What you learned:
--
+- AI can't do everything in a single prompt without the right context. It's still up to the person to provide that context, test the results, and work through any issues with the AI or by yourself
 
 Commit message:
--
+teration 3: final version passing all tests
 
 ---
 
