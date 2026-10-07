@@ -25,16 +25,16 @@ Iteration 1: AI-generated implementation
 ## Iteration 2
 
 What changed:
--
+- The method now finds the largest value in the array.
 
 What improved:
--
+- 3 out of 4 tests now pass.
 
 What still failed and why:
--
+- testEmptyArray() failed because the method tries to access index 0 of an empty array because the AI doesnt have context of all the tests it needs to pass
 
 Commit message:
--
+- Iteration 2: largest value implementation
 
 ---
 
